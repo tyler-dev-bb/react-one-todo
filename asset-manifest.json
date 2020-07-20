@@ -1,22 +1,30 @@
 {
   "files": {
-    "main.css": "/react-one-todo/static/css/main.93012078.chunk.css",
-    "main.js": "/react-one-todo/static/js/main.6e122149.chunk.js",
-    "main.js.map": "/react-one-todo/static/js/main.6e122149.chunk.js.map",
+    "main.css": "/react-one-todo/static/css/main.e26292fc.chunk.css",
+    "main.js": "/react-one-todo/static/js/main.999f0f1d.chunk.js",
+    "main.js.map": "/react-one-todo/static/js/main.999f0f1d.chunk.js.map",
     "runtime-main.js": "/react-one-todo/static/js/runtime-main.19efa16d.js",
     "runtime-main.js.map": "/react-one-todo/static/js/runtime-main.19efa16d.js.map",
-    "static/js/2.4e93c919.chunk.js": "/react-one-todo/static/js/2.4e93c919.chunk.js",
-    "static/js/2.4e93c919.chunk.js.map": "/react-one-todo/static/js/2.4e93c919.chunk.js.map",
+    "static/js/2.7722ae59.chunk.js": "/react-one-todo/static/js/2.7722ae59.chunk.js",
+    "static/js/2.7722ae59.chunk.js.map": "/react-one-todo/static/js/2.7722ae59.chunk.js.map",
     "index.html": "/react-one-todo/index.html",
-    "precache-manifest.e0d2e2093726cc1d35b04392379f5ff7.js": "/react-one-todo/precache-manifest.e0d2e2093726cc1d35b04392379f5ff7.js",
+    "precache-manifest.63505cfeff2e81ba373fb77c6e2cb0f3.js": "/react-one-todo/precache-manifest.63505cfeff2e81ba373fb77c6e2cb0f3.js",
     "service-worker.js": "/react-one-todo/service-worker.js",
-    "static/css/main.93012078.chunk.css.map": "/react-one-todo/static/css/main.93012078.chunk.css.map",
-    "static/js/2.4e93c919.chunk.js.LICENSE.txt": "/react-one-todo/static/js/2.4e93c919.chunk.js.LICENSE.txt"
+    "static/css/main.e26292fc.chunk.css.map": "/react-one-todo/static/css/main.e26292fc.chunk.css.map",
+    "static/js/2.7722ae59.chunk.js.LICENSE.txt": "/react-one-todo/static/js/2.7722ae59.chunk.js.LICENSE.txt",
+    "static/media/Anj1.JPG": "/react-one-todo/static/media/Anj1.8fb77443.JPG",
+    "static/media/Anj2.PNG": "/react-one-todo/static/media/Anj2.a9dc0f5c.PNG",
+    "static/media/Anj3.JPG": "/react-one-todo/static/media/Anj3.0f2d2e82.JPG",
+    "static/media/Anj4.PNG": "/react-one-todo/static/media/Anj4.0c9717a9.PNG",
+    "static/media/Anj5.JPG": "/react-one-todo/static/media/Anj5.2a4565b4.JPG",
+    "static/media/Anj6.JPG": "/react-one-todo/static/media/Anj6.cd28dec8.JPG",
+    "static/media/Anj7.JPG": "/react-one-todo/static/media/Anj7.86d942d0.JPG",
+    "static/media/frnd.jpg": "/react-one-todo/static/media/frnd.d9755ae6.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.19efa16d.js",
-    "static/js/2.4e93c919.chunk.js",
-    "static/css/main.93012078.chunk.css",
-    "static/js/main.6e122149.chunk.js"
+    "static/js/2.7722ae59.chunk.js",
+    "static/css/main.e26292fc.chunk.css",
+    "static/js/main.999f0f1d.chunk.js"
   ]
 }
