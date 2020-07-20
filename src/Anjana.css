@@ -1,0 +1,15 @@
+.img-container {
+    width: 100%;
+}
+.img-container img {
+    width: 25%;
+    margin: 20px auto;
+    padding: 10px;
+    height: 100px;
+    border-radius: 10px;
+}
+.img-container p {
+    color: #fff;
+    text-align: center;
+    font-weight: bolder;
+}
